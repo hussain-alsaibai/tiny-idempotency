@@ -1,4 +1,5 @@
 # tiny-idempotency
+[![CI](https://github.com/hussain-alsaibai/tiny-idempotency/actions/workflows/ci.yml/badge.svg)](https://github.com/hussain-alsaibai/tiny-idempotency/actions/workflows/ci.yml)
 
 **Zero-dependency idempotency keys for Python.**
 
